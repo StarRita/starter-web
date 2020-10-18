@@ -1,10 +1,5 @@
-Demo hipster  
-Enumerating objects: 5, done.
-Counting objects: 100% (5/5), done.
-Delta compression using up to 12 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 281 bytes | 281.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/StarRita/starter-web.git
-   d5ceb9b..f9705e8  master -> master
+
+I'm baby listicle retro pork belly lomo. Kogi wayfarers etsy shaman vice cloud bread kickstarter gastropub fam offal. Palo santo pickled plaid activated charcoal etsy vaporware. Affogato cold-pressed leggings, hexagon shaman blog church-key actually.
+
+DIY direct trade authentic, offal craft beer trust fund organic irony everyday carry +1 fashion axe neutra lumbersexual hexagon. Quinoa kinfolk stumptown franzen, occupy irony lo-fi. Taiyaki lumbersexual ethical, semiotics street art irony neutra fanny pack. Heirloom cloud bread meditation pug. Narwhal hexagon banh mi locavore. Man braid austin pok pok normcore umami actually, etsy occupy adaptogen VHS prism lo-fi leggings shoreditch tumblr. Adaptogen next level knausgaard heirloom, actually wolf bushwick authentic etsy cold-pressed mustache.
+
